@@ -2,6 +2,8 @@
 
 An air quality monitoring system using ESP32 + PMS5003 sensor with local web interface for realtime monitoring.
 
+![Web Interface](img/screenshot.png)
+
 ## Architecture
 
 ```
@@ -45,6 +47,8 @@ Before deploying, you'll need to configure the following:
 - ESP32 development board
 - PMS5003 particulate matter sensor
 - Jumper wires
+
+![Hardware Setup](img/lol.png)
 
 ## Wiring
 
