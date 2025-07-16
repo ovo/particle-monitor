@@ -46,12 +46,12 @@ Before deploying, you'll need to configure the following:
 - PMS5003 particulate matter sensor
 - Jumper wires
 
-## Wiring (TX/RX pins can be changed depending on your board)
+## Wiring
 
 - PMS5003 VCC → ESP32 5V
 - PMS5003 GND → ESP32 GND
-- PMS5003 TX → ESP32 GPIO17 (RX)
-- PMS5003 RX → ESP32 GPIO16 (TX)
+- PMS5003 TX → ESP32 GPIO17 (RX) (can be changed based on board)
+- PMS5003 RX → ESP32 GPIO16 (TX) (can be changed based on board)
 
 ## Air Quality Standards
 
